@@ -1,11 +1,9 @@
 .into {
   display: flex;
   flex-direction: column;
-  width: 830px;
+  width: 984px;
   height: 482px;
-  margin-top: 92px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 92px auto 0;
 }
 
 .into__title {
@@ -15,6 +13,7 @@
   height: 116px;
   line-height: 1.07;
   margin: 0;
+  padding-top: 92px;
 }
 
 .into__quote {

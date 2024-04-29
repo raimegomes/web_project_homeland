@@ -5,7 +5,7 @@
   align-items: center;
   width: 984px;
   height: 983px;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .lead__title {
@@ -16,7 +16,6 @@
   font-family: "Inter 900";
   font-size: 96px;
   line-height: 1.04;
-  margin: 90px auto 0;
 }
 
 .lead__description {
@@ -33,4 +32,5 @@
   width: 100%;
   height: 615px;
   object-fit: cover;
+  margin: 0;
 }
