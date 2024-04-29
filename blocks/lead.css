@@ -1,0 +1,36 @@
+.lead {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 984px;
+  height: 983px;
+  margin: auto;
+}
+
+.lead__title {
+  display: flex;
+  text-align: center;
+  width: 73.17%;
+  height: 200px;
+  font-family: "Inter 900";
+  font-size: 96px;
+  line-height: 1.04;
+  margin: 90px auto 0;
+}
+
+.lead__description {
+  font-family: "Inter 400";
+  text-align: center;
+  font-size: 30px;
+  height: 72px;
+  width: 73.17%;
+  line-height: 1.2;
+  padding: 32px auto 64px;
+}
+
+.lead__image {
+  width: 100%;
+  height: 615px;
+  object-fit: cover;
+}

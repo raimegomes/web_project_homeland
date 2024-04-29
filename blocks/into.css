@@ -1,0 +1,50 @@
+.into {
+  display: flex;
+  flex-direction: column;
+  width: 830px;
+  height: 482px;
+  margin-top: 92px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.into__title {
+  font-family: "Inter 900";
+  font-size: 54px;
+  width: 100%;
+  height: 116px;
+  line-height: 1.07;
+  margin: 0;
+}
+
+.into__quote {
+  font-family: "Inter 400";
+  font-size: 24px;
+  margin: 0;
+}
+
+.into__quote-text {
+  width: 738px;
+  height: 68px;
+  line-height: 1.4;
+  margin: 0;
+  padding: 40px 92px 0 0;
+}
+
+.into__quote-author {
+  display: flex;
+  justify-content: flex-end;
+  width: 732px;
+  height: 34px;
+  line-height: 1.4;
+  padding: 10px 6px 0 0;
+}
+
+.into__text {
+  width: 772px;
+  height: 182px;
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0;
+  padding: 32px 10px 0 0;
+}
