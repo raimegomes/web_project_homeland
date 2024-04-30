@@ -16,6 +16,8 @@
   font-family: "Inter 900";
   font-size: 96px;
   line-height: 1.04;
+  padding: 90px 0 0;
+  margin: 0;
 }
 
 .lead__description {
@@ -26,6 +28,7 @@
   width: 73.17%;
   line-height: 1.2;
   padding: 32px 0 64px;
+  margin: 0;
 }
 
 .lead__image {
