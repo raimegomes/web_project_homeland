@@ -9,3 +9,24 @@
   width: 254px;
   height: 70px;
 }
+
+@media screen and (min-width: 769px) and (max-width: 1280px) {
+  .header {
+    padding-top: 30px;
+  }
+
+  .header__logo {
+    height: 66px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .header {
+    padding-top: 20px;
+  }
+
+  .header__logo {
+    width: 188px;
+    height: 52px;
+  }
+}
