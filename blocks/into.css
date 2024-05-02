@@ -1,16 +1,13 @@
 .into {
   display: flex;
   flex-direction: column;
-  width: 984px;
-  height: 482px;
+  /*width: 984px;*/
   margin: 92px auto 0;
 }
 
 .into__title {
   font-family: "Inter 900";
   font-size: 54px;
-  width: 830px;
-  height: 116px;
   line-height: 1.07;
   margin: 0;
 }
@@ -22,8 +19,6 @@
 }
 
 .into__quote-text {
-  width: 738px;
-  height: 68px;
   line-height: 1.4;
   margin: 0;
   padding: 40px 92px 0 0;
@@ -32,91 +27,78 @@
 .into__quote-author {
   display: flex;
   justify-content: flex-end;
-  width: 732px;
-  height: 34px;
   line-height: 1.4;
   padding: 10px 6px 0 0;
 }
 
 .into__text {
-  width: 772px;
-  height: 182px;
   font-size: 16px;
   line-height: 1.6;
   margin: 0;
   padding: 32px 10px 0 0;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1280px) {
+@media screen and (min-width: 769px) and (max-width: 1280px) {
   into {
-    width: 720px;
-    height: 490px;
     margin: 90px auto 0;
+    padding-left: 0;
   }
 
   .into__title {
     font-size: 45px;
-    width: 707px;
-    height: 98px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 
   .into__quote {
     font-size: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 
   .into__quote-text {
-    width: 720px;
-    height: 102px;
     padding-top: 50px;
     margin: 0 auto;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 
   .into__quote-author {
-    width: 720px;
-    height: 34px;
     padding: 10px 0 0;
   }
 
   .into__text {
     font-size: 16px;
-    width: 720px;
-    height: 182px;
     padding-top: 32px;
     margin: 0 auto;
+    padding-left: 24px;
+    padding-right: 24px;
   }
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
   .into {
-    display: flex;
-    word-wrap: break-word;
-    width: 288px;
-    height: 878px;
+    width: fit-content;
     margin: 64px auto 0;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 
   .into__title {
     font-size: 32px;
-    width: 288px;
-    height: 140px;
   }
 
   .into__quote-text {
-    max-width: 288px;
     padding-top: 40px;
     margin: 0 auto;
     font-size: 24px;
   }
 
   .into__quote-author {
-    width: 288px;
-    height: 34px;
     padding: 10px 0 0;
   }
 
   .into__text {
-    width: 288px;
-    height: 442px;
     padding-top: 32px;
     margin: 0 auto;
   }

@@ -4,14 +4,12 @@
   justify-content: center;
   align-items: center;
   width: 984px;
-  height: 983px;
   margin: 0 auto;
 }
 
 .lead__title {
   text-align: center;
   width: 73.17%;
-  height: 200px;
   font-family: "Inter 900";
   font-size: 96px;
   line-height: 1.04;
@@ -23,7 +21,6 @@
   font-family: "Inter 400";
   text-align: center;
   font-size: 30px;
-  height: 72px;
   width: 73.17%;
   line-height: 1.2;
   padding: 32px 280px 64px;
@@ -31,25 +28,25 @@
 }
 
 .lead__image {
-  width: 984px;
-  height: 615px;
   object-fit: cover;
   padding: 0 148px 0;
   margin: 0;
+  padding: 0;
 }
 
 @media screen and (min-width: 769px) and (max-width: 1280px) {
   .lead {
-    width: 720px;
-    height: 255px;
-    padding: 0 auto;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 0;
   }
 
   .lead__title {
-    width: 530px;
-    height: 158px;
+    width: fit-content;
+    max-width: 530px;
     font-size: 75px;
-    margin: 0 auto;
+    padding: 0 119px 0;
+    margin: 0;
   }
 
   .lead__description {
@@ -59,37 +56,33 @@
 
   .lead__image {
     object-fit: cover;
-    width: 100vw;
-    height: 480px;
+    width: 100%;
     margin: 0;
+    padding: 0;
   }
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
   .lead {
-    width: 288px;
-    height: 144px;
+    width: fit-content;
     margin: 0 auto;
   }
 
   .lead__title {
-    width: 288px;
-    height: 88px;
     font-size: 40px;
-    padding: 0 30px 0;
+    padding: 0 46px 0;
+    max-width: 228px;
   }
 
   .lead__description {
-    width: 288px;
-    height: 40px;
     padding: 16px 16px 40px;
     font-size: 16px;
   }
 
   .lead__image {
     object-fit: cover;
-    width: 100vw;
-    height: 200px;
+    width: 100%;
     margin: 0;
+    padding: 0;
   }
 }
