@@ -1,7 +1,7 @@
 .into {
   display: flex;
   flex-direction: column;
-  /*width: 984px;*/
+  max-width: 984px;
   margin: 92px auto 0;
 }
 
@@ -59,8 +59,6 @@
   .into__quote-text {
     padding-top: 50px;
     margin: 0 auto;
-    padding-left: 24px;
-    padding-right: 24px;
   }
 
   .into__quote-author {
