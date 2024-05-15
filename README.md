@@ -1,6 +1,6 @@
 # Tripleten Web Project Homeland :airplane: :house_with_garden:
 
-## :pushpin: Essa é uma página web que utiliza um design adaptável a diferentes formatos de tela, que mostra as cidades natais de alguns funcionários da Triple Ten. :sparkler:
+## :pushpin: Essa é uma página web que utiliza um design adaptável a diferentes formatos de tela, onde mostra as cidades natais de alguns funcionários da Triple Ten. :sparkler:
 
 :computer: Tecnologias utilizadas: HTML e CSS.
 
