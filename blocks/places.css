@@ -167,13 +167,14 @@
   .places {
     margin-top: 62px;
     margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   .place {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     gap: 30px;
   }
 
