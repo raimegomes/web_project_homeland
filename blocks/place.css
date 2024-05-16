@@ -106,7 +106,7 @@
 }
 
 .place__frame:hover {
-  background-image: #00000033;
+  background-color: rgba(0, 0, 0, 0.25);
   opacity: 0.75;
 }
 
