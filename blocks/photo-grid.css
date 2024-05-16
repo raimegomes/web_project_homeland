@@ -4,6 +4,7 @@
   gap: 16px;
   max-width: 1184px;
   margin: 118px auto 0;
+  padding: 0 48px 0;
 }
 
 .photo-grid__item {
@@ -17,11 +18,13 @@
   .photo-grid {
     grid-template-columns: repeat(2, 1fr);
     margin-top: 64px;
+    max-width: 720px;
   }
 
   .photo-grid__item {
     max-width: 352px;
     max-height: 264px;
+    justify-self: center;
   }
 }
 

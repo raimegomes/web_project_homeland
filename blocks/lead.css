@@ -3,8 +3,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 984px;
+  max-width: 984px;
+  width: fit-content;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 .lead__title {
@@ -29,13 +31,14 @@
 
 .lead__image {
   object-fit: cover;
+  overflow: hidden;
   padding: 0 148px 0;
   margin: 0;
   padding: 0;
   box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.5);
 }
 
-@media screen and (min-width: 769px) and (max-width: 1280px) {
+@media screen and (max-width: 1200px) {
   .lead {
     width: fit-content;
     margin: 0 auto;
@@ -65,7 +68,7 @@
   }
 }
 
-@media screen and (min-width: 320px) and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .lead {
     width: fit-content;
     margin: 0 auto;

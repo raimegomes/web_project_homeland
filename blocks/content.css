@@ -1,17 +1,9 @@
 .content {
   margin-top: 90px;
-  padding: 0 92px 0;
 }
 
-@media screen and (max-width: 1024px) {
-  .content {
-    padding: 0 24px 0;
-  }
-}
-
-@media screen (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .content {
     margin-top: 50px;
-    padding: 0 16px 0;
   }
 }

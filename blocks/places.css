@@ -31,9 +31,11 @@
 }
 
 .place__subtitle {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
   margin: 0;
   max-width: 456px;
-  place-items: end;
 }
 
 .place__subtitle_artist {
@@ -118,7 +120,7 @@
   color: #ffffff;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1024px) {
   .places {
     margin: 88px 24px 0;
     margin-bottom: 72px;
