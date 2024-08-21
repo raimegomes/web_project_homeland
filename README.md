@@ -1,9 +1,24 @@
-# Tripleten Web Project Homeland :airplane: :house_with_garden:
+# 🌍 **Tripleten Web Project Homeland** ✈️ 🏡
 
-## :pushpin: Essa é uma página web que utiliza um design adaptável a diferentes formatos de tela, onde mostra as cidades natais de alguns funcionários da Triple Ten. :sparkler:
+Bem-vindo(a) ao **Tripleten Web Project Homeland**! Este projeto é uma página web com design adaptável (responsivo) que apresenta as cidades natais de alguns colaboradores da Triple Ten, em um layout moderno e dinâmico. 🎇
 
-:computer: Tecnologias utilizadas: HTML e CSS.
+## 🚀 **Tecnologias Utilizadas**
+- **HTML** e **CSS** para estruturação e estilização da página.
 
-:octocat: Pessoas autoras: Esta página web foi integralmente elaborada por mim (Raíme Gomes), baseado em um design na plataforma Figma, de autoria da Triple Ten.
+## 👩‍💻 **Autor**
+- Criado por mim, **Raíme Gomes**, este projeto foi desenvolvido com base em um design exclusivo fornecido pela plataforma **Figma**, de autoria da Triple Ten Bootcamp.
 
-:globe_with_meridians: Link para acesso à página web :arrow_right: https://raimegomes.github.io/web_project_homeland/
+## 🌐 **Acesse o Projeto**
+- Veja o projeto [aqui](https://raimegomes.github.io/web_project_homeland/).
+
+## 📸 **Prévia do Projeto**
+Abaixo está uma prévia visual de como o projeto se apresenta:
+
+![Prévia do Projeto](./images/preview.png)
+
+## 📬 **Contato**
+- **LinkedIn**: [Raíme Gomes](https://www.linkedin.com/in/raimeamador/)
+- **E-mail**: raime.gomes.dev@gmail.com
+
+Aproveite a navegação e sinta-se à vontade para explorar as histórias por trás das cidades natais! 😊
+
