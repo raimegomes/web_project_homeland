@@ -5,7 +5,7 @@ Bem-vindo(a) ao **Tripleten Web Project Homeland**! Este projeto é uma página 
 ## 🚀 **Tecnologias Utilizadas**
 - **HTML** e **CSS** para estruturação e estilização da página.
 
-## 👩‍💻 **Autor**
+## 👩‍💻 **Autora**
 - Criado por mim, **Raíme Gomes**, este projeto foi desenvolvido com base em um design exclusivo fornecido pela plataforma **Figma**, de autoria da Triple Ten Bootcamp.
 
 ## 🌐 **Acesse o Projeto**
